@@ -1,2 +1,3 @@
 # home
-$$Home doc
+## Home doc
+Google[https://www.google.com]
